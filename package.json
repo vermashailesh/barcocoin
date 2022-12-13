@@ -16,6 +16,7 @@
   },
   "author": "Shailesh Verma <hi@shailesh.be>",
   "license": "MIT",
+  "repository": "https://github.com/vermashailesh/barcocoin",
   "dependencies": {
     "debug": "^4.1.1",
     "elliptic": "^6.5.4"
